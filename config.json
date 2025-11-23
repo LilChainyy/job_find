@@ -1,0 +1,47 @@
+{
+  "keywords": [
+    "trade operations",
+    "trading operations",
+    "trade support",
+    "settlements",
+    "trade settlements",
+    "operations analyst",
+    "middle office",
+    "post-trade",
+    "clearing operations",
+    "reconciliation analyst"
+  ],
+  
+  "locations": [
+    "New York, NY",
+    "United States",
+    "Remote"
+  ],
+  
+  "companies_to_monitor": {
+    "Jane Street": "https://www.janestreet.com/join-jane-street/open-roles/",
+    "Citadel": "https://www.citadel.com/careers/open-positions/",
+    "Two Sigma": "https://careers.twosigma.com/careers/SearchJobs",
+    "Hudson River Trading": "https://www.hudsonrivertrading.com/careers/",
+    "Jump Trading": "https://www.jumptrading.com/careers/",
+    "Virtu Financial": "https://www.virtu.com/careers/",
+    "IMC Trading": "https://careers.imc.com/us/en"
+  },
+  
+  "linkedin_email": "your_email@example.com",
+  "linkedin_password": "your_password_here",
+  
+  "auto_apply": false,
+  "confirm_before_submit": true,
+  "show_browser": false,
+  
+  "notification_settings": {
+    "email_alerts": false,
+    "email_recipient": "your_email@example.com"
+  },
+  
+  "schedule": {
+    "check_interval_hours": 4,
+    "run_times": ["09:00", "13:00", "17:00", "21:00"]
+  }
+}

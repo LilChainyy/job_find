@@ -1,0 +1,95 @@
+{
+  "_comment": "Your Application Profile - Fill this out once, use everywhere",
+  
+  "personal_info": {
+    "first_name": "Yiyan",
+    "last_name": "Your Last Name",
+    "email": "your.email@example.com",
+    "phone": "+1 (212) 555-0123",
+    "linkedin_url": "https://www.linkedin.com/in/your-profile",
+    "github_url": "https://github.com/yourusername",
+    "portfolio_url": "https://yourportfolio.com"
+  },
+  
+  "experience": {
+    "total_years_experience": 3,
+    "finance_years": 3,
+    "trading_years": 2,
+    "operations_years": 2,
+    "python_years": 2,
+    "current_title": "M&A Diligence Analyst",
+    "current_company": "Ernst & Young Parthenon"
+  },
+  
+  "education": {
+    "education_level": "Bachelor's Degree",
+    "university": "University of Rochester",
+    "major": "Economics",
+    "concentration": "Econometrics",
+    "graduation_year": 2022,
+    "gpa": "3.7"
+  },
+  
+  "certifications": {
+    "cfa_level": "Level II Candidate",
+    "other_certs": []
+  },
+  
+  "work_authorization": {
+    "work_authorized": true,
+    "require_sponsorship": false,
+    "visa_status": "US Citizen",
+    "willing_to_relocate": true,
+    "open_to_remote": true
+  },
+  
+  "preferences": {
+    "desired_salary_min": 100000,
+    "desired_salary_max": 150000,
+    "notice_period_weeks": 2,
+    "available_start_date": "2025-02-01"
+  },
+  
+  "documents": {
+    "resume_path": "/Users/you/Documents/Resume_Yiyan_TradeOps.pdf",
+    "cover_letter_path": "/Users/you/Documents/CoverLetter_Generic.pdf",
+    "_comment": "Use absolute paths. Update these paths to match your actual files."
+  },
+  
+  "optional_demographics": {
+    "_comment": "Only fill if comfortable. Script will use 'prefer not to answer' if these are empty.",
+    "gender_disclosure": false,
+    "gender": "",
+    "ethnicity_disclosure": false,
+    "ethnicity": "",
+    "veteran": false,
+    "disability_disclosure": false
+  },
+  
+  "application_settings": {
+    "auto_submit": false,
+    "_comment": "Set to true to automatically submit applications (risky!). False = stops at submit button for your review."
+  },
+  
+  "custom_answers": {
+    "_comment": "Pre-written answers to common questions. Customize these!",
+    
+    "why_this_company": "I'm drawn to your firm's quantitative approach to trading and strong culture of continuous learning. My background in M&A diligence and econometrics aligns well with the analytical rigor required for trade operations.",
+    
+    "why_this_role": "Trade operations combines my interests in financial markets, process optimization, and risk management. I've been actively trading options and understand the importance of accurate settlement and reconciliation.",
+    
+    "greatest_strength": "My analytical mindset combined with attention to detail. At EY, I analyzed complex healthcare deals while maintaining precision in financial modeling and due diligence documentation.",
+    
+    "why_leaving": "I'm seeking a role more focused on market operations and quantitative analysis rather than accounting-heavy diligence work.",
+    
+    "career_goals": "Build deep expertise in trade operations and market microstructure, with the goal of eventually transitioning into quantitative trading or systematic market-making.",
+    
+    "tell_me_about_yourself": "I'm an M&A analyst at EY Parthenon with a background in econometrics. I've always been fascinated by financial markets—I actively trade options and am building a fintech startup focused on market intelligence. I'm pursuing this transition to operations because I want to work closer to the trading desk and develop expertise in market operations.",
+    
+    "relevant_experience": "At EY, I conduct financial due diligence for M&A transactions, which requires extreme attention to detail in analyzing financial data. I also personally trade options, giving me practical understanding of trade execution, settlements, and reconciliation processes.",
+    
+    "technical_skills": "Python (pandas, NumPy), SQL, Excel/VBA, financial modeling, Bloomberg Terminal, options pricing, statistical analysis",
+    
+    "availability": "I can start within 2 weeks of receiving an offer. I'm currently employed but in good standing and can provide proper notice."
+  }
+}
