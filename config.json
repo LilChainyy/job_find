@@ -30,13 +30,13 @@
   
   "linkedin_email": "yiyan.chen@gmail.com",
   "linkedin_password": "Bailier!514978",
-  
-  "auto_apply": True,
+
+  "auto_apply": true,
   "confirm_before_submit": true,
   "show_browser": false,
   
   "notification_settings": {
-    "email_alerts": True,
+    "email_alerts": true,
     "email_recipient": "yiyan.chen@gmail.com"
   },
   
