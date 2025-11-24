@@ -3,20 +3,19 @@
   
   "personal_info": {
     "first_name": "Yiyan",
-    "last_name": "Your Last Name",
-    "email": "your.email@example.com",
-    "phone": "+1 (212) 555-0123",
-    "linkedin_url": "https://www.linkedin.com/in/your-profile",
-    "github_url": "https://github.com/yourusername",
-    "portfolio_url": "https://yourportfolio.com"
+    "last_name": "Chen",
+    "email": "yiyan.chen25@gmail.com",
+    "phone": "+1 (585) 465 4780",
+    "linkedin_url": "https://www.linkedin.com/in/yiyan-c-1325731a3/",
+    "website_url": "https://yiyanchen.com"
   },
   
   "experience": {
-    "total_years_experience": 3,
-    "finance_years": 3,
-    "trading_years": 2,
-    "operations_years": 2,
-    "python_years": 2,
+    "total_years_experience": 2,
+    "finance_years": 2,
+    "trading_years": 1,
+    "operations_years": 1,
+    "python_years": 1,
     "current_title": "M&A Diligence Analyst",
     "current_company": "Ernst & Young Parthenon"
   },
@@ -26,28 +25,28 @@
     "university": "University of Rochester",
     "major": "Economics",
     "concentration": "Econometrics",
-    "graduation_year": 2022,
-    "gpa": "3.7"
+    "graduation_year": 2023,
+    "gpa": "3.5"
   },
   
   "certifications": {
-    "cfa_level": "Level II Candidate",
-    "other_certs": []
+    "cfa_level": "Level I",
+    "other_certs": "SIE"
   },
   
   "work_authorization": {
     "work_authorized": true,
     "require_sponsorship": false,
-    "visa_status": "US Citizen",
+    "visa_status": "Permenant Residence",
     "willing_to_relocate": true,
     "open_to_remote": true
   },
   
   "preferences": {
-    "desired_salary_min": 100000,
+    "desired_salary_min": 800000,
     "desired_salary_max": 150000,
-    "notice_period_weeks": 2,
-    "available_start_date": "2025-02-01"
+    "notice_period_weeks": 1,
+    "available_start_date": "2025-12-20"
   },
   
   "documents": {
