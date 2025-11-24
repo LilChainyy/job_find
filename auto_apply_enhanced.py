@@ -43,11 +43,11 @@ class EnhancedAutoApply:
         """Calculate years of experience based on question"""
         # Map common question types to your experience
         experience_map = {
-            'total': self.profile.get('total_years_experience', 3),
-            'python': self.profile.get('python_years', 2),
-            'finance': self.profile.get('finance_years', 3),
-            'trading': self.profile.get('trading_years', 2),
-            'operations': self.profile.get('operations_years', 2)
+            'total': self.profile.get('total_years_experience', 2),
+            'python': self.profile.get('python_years', 1),
+            'finance': self.profile.get('finance_years', 2),
+            'trading': self.profile.get('trading_years', 1),
+            'operations': self.profile.get('operations_years', 1)
         }
         
         question_lower = question_text.lower()
