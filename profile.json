@@ -50,8 +50,8 @@
   },
   
   "documents": {
-    "resume_path": "/Users/you/Documents/Resume_Yiyan_TradeOps.pdf",
-    "cover_letter_path": "/Users/you/Documents/CoverLetter_Generic.pdf",
+    "resume_path": "/Users/lilchainyy/Desktop/YC_ops.docx.pdf",
+    "cover_letter_path": []
     "_comment": "Use absolute paths. Update these paths to match your actual files."
   },
   
