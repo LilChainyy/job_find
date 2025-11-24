@@ -28,16 +28,16 @@
     "IMC Trading": "https://careers.imc.com/us/en"
   },
   
-  "linkedin_email": "your_email@example.com",
-  "linkedin_password": "your_password_here",
+  "linkedin_email": "yiyan.chen@gmail.com",
+  "linkedin_password": "Bailier!514978",
   
-  "auto_apply": false,
+  "auto_apply": True,
   "confirm_before_submit": true,
   "show_browser": false,
   
   "notification_settings": {
-    "email_alerts": false,
-    "email_recipient": "your_email@example.com"
+    "email_alerts": True,
+    "email_recipient": "yiyan.chen@gmail.com"
   },
   
   "schedule": {
